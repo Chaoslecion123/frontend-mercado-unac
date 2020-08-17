@@ -1,0 +1,13 @@
+.caja2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 80vh;
+    align-items: center;
+  
+}
+
+.elemento2 {
+    padding: 10px;
+    font-size: medium;
+}
