@@ -98,20 +98,6 @@ const Login = () => {
                         >
                             Enviar
                     </Button>
-
-                    <Grid container>
-                        <Grid item xs>
-                            <Link href="#" variant="body2">
-                                {"Olvido su contrasena?"}
-                            </Link>
-                        </Grid>
-
-                        <Grid item>
-                            <Link href="/register" variant="body2">
-                                {"No tienes cuenta? Registrate"}
-                            </Link>
-                        </Grid>          
-                    </Grid>
                 </form>
             </div>
         </Container>
