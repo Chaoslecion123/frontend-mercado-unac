@@ -137,7 +137,7 @@ const Registro = () => {
                             <TextField 
                                 name="dni"
                                 fullWidth
-                                label="ingrese documento de identicación"
+                                label="ingrese documento de identificación"
                                 onChange={handleInput}
                             />
                         </Grid>
